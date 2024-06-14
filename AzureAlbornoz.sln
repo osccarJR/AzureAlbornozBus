@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AzureAlbornoz", "AzureAlbornoz.pyproj", "{BAC53925-2486-478A-B94D-E54C1FE8A17D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC53925-2486-478A-B94D-E54C1FE8A17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC53925-2486-478A-B94D-E54C1FE8A17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A37D5FB-2ED3-4C94-93CE-27C4F33816EC}
+	EndGlobalSection
+EndGlobal
